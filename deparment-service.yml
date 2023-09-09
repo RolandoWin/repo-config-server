@@ -1,3 +1,4 @@
+application-name: department-service
 server:
   port: 8270
 spring:
