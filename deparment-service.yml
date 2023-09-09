@@ -1,7 +1,8 @@
 server:
   port: 8270
 spring:
-  application-name: department-service
+  application: 
+    name: department-service
   datasource:
     url: jdbc:postgresql://localhost:5432/bdconsultas
     username: postgres
